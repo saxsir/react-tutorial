@@ -10,3 +10,6 @@ https://ja.reactjs.org/tutorial/tutorial.html
 https://ja.reactjs.org/docs/create-a-new-react-app.html#create-react-app
 
 に書いてある `npx create-react-app ...` でつくっただけ。
+
+## イミュータビリティの説明
+https://ja.reactjs.org/tutorial/tutorial.html#why-immutability-is-important
